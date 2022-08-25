@@ -1,1 +1,1 @@
-# MaCheongDan-admin
+# MaCheongDan-관리자 페이지
